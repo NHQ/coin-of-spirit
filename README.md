@@ -16,12 +16,15 @@
 + crowd wave
   + kickstarter/indiehoho link
   + crypto crowd fund in BTC, DOGE, LTC, VIA, JBS
-+ cryto communities
++ cryto communities portal
   + vote for which coins with mBTC?
   + goal of spreading crypto
-  + contact portal for coin communities
+  + contact portal for coin communities and devs
+    + open source NPM module for web/paper/javascript wallet creation
+  + discussion board for coins?
   + donation page
-    + wallets 4 every coin!
+    + wallets 4 many coin!
+    + private key importer?
 
 
 ## list of deadline deadlines
