@@ -5,23 +5,23 @@
 + about
   + project
     + get u into crytpo currencies
+    + problems of fiat
+    + decentralizing and diversifying cultural exchange
+    + intoducing cryptocats\*
   + people
     + who, and what they are doing
-  + roadmap?
+      + Johnny
+      + Ru
+      + Others
 + crowd wave
-  + kickstarter/indiehoho
-  + crypto fund
+  + kickstarter/indiehoho link
+  + crypto crowd fund in BTC, DOGE, LTC, VIA, JBS
 + cryto communities
+  + vote for which coins with mBTC?
   + goal of spreading crypto
-    + crypto dealers, events, fetsivals
   + contact portal for coin communities
   + donation page
     + wallets 4 every coin!
-+ investors
-  + about, investor relations twitter account, etc
-  + counterparty
-  + clearinghouse
-  + dogeparty
 
 
 ## list of deadline deadlines
